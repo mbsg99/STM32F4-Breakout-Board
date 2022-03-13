@@ -5,7 +5,7 @@ The article is being published in collaboration with JLCPCB. It is one of the mo
 
 The article is being published in collaboration with JLCPCB. It is one of the most experienced PCB manufacturers with more than a decade in the field of PCB prototype and fabrication, they are committed to meeting the needs of our customers from different industries in terms of quality, delivery, cost-effectiveness, and any other demanding requests.
 
-#Features
+# Features
 
 STM32F405 Cortex M4 with FPU and 1MB Flash, 168MHz speed
 192KB RAM total - 128 KB RAM for general usage + 64 KB program-only/cache RAM
@@ -18,7 +18,7 @@ I2C, UART, GPIO, ADCs, DACs
 Qwiic/STEMMA-QT connector for fast I2C connectivity
 built-in USB DFU bootloader to load firmware. It does not come with a UF2 bootloader.
 
-#Hardware features of the STM32F4 SOM:
+# Hardware features of the STM32F4 SOM:
 Compact (30 mm x 46 mm) mezzanine module;
 External interface using two 80-pin 0.4 mm-pitch connectors;
 Mounting hole reducing the risk of connector-to-PCB intermittence;
