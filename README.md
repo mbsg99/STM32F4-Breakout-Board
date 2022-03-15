@@ -50,3 +50,23 @@ After uploading the zip file, you’ll see a success message at the bottom if th
 You can review the PCB in the Gerber viewer to make sure everything is good. You can view both top and bottom of the PCB. After making sure our PCB looks good, we can now place the order at a reasonable price. You can order 5 PCBs for just $2 but if it’s your first order then you can get 5 PCBs for $2.
 
 To place the order, click on “SAVE TO CART” button. My PCBs took 2 days to get manufactured and arrived within a week using DHL delivery option. PCBs were well packed and the quality was really good.
+
+# SMT Services: JLCPCB
+
+Step 1: Open JLCPCB
+
+Step 2: Click on Order Now
+
+Step 3: Upload your Gerber Files and select your requirements and PCB configuration
+
+Step 4: Upload PCB BOM/ CPL File
+
+Step 5: Select Part from JLCPCB Part library
+
+Step 6: Order your PCB
+
+Click Here to see the SMT Service by JLCPCB 
+
+Youtube Link: https://www.youtube.com/watch?v=pyz-kjLpZa8
+
+SMT Service: https://cart.jlcpcb.com/quote?fromDemo=yes&_ga=2.63043887.1673064976.1646718183-909480296.1646359782
